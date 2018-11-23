@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+
+html {
+    font-size: 16px;
+}
+
+
+#btn{
+    color: white;
+    background-color: darkgrey;
+    font-size: 20px;
+}
+header {
+    background: darkgrey;
+    color: white;
+    height: 15vh;
+    padding-top: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+form {
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#result {
+    text-align: center;
+    margin-top: 5rem;
+}
+
+input {
+    font-size: 0.9rem;
+    text-align: center;
+}
